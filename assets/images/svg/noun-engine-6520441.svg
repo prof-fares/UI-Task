@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 100 125" x="0px" y="0px">
+  <path fill-rule="evenodd" d="M13.965,33.783c-.117-.038-.32-.1,0,0v0Zm-.84,2.585c-.184-.061-.1-.03,0,0v0Z"/>
+  <path fill-rule="evenodd" d="M22.546,36l.172.373a2.438,2.438,0,0,0,1.2.3,9.657,9.657,0,0,0,6.926-2.926c1.02-1.192.806-1.68-.751-1.779a9.663,9.663,0,0,0-6.927,2.925,2.333,2.333,0,0,0-.623,1.1Z"/>
+  <path fill-rule="evenodd" d="M43.837,62.015a7.967,7.967,0,1,0,0,11.267,7.968,7.968,0,0,0,0-11.267Z"/>
+  <!-- Add more paths here following the same structure -->
+  <text x="0" y="115" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">Created by SISWANTORO</text>
+  <text x="0" y="120" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">from the Noun Project</text>
+</svg>

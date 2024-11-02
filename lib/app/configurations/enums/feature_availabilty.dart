@@ -1,0 +1,4 @@
+enum FeatureAvailability {
+  available,
+  unavailable,
+}
